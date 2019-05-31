@@ -1,0 +1,490 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7639]
+    Renderer: NVIDIA GeForce GTX 1060
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jonah\Google Drive\Parking Palooza\PPalooza_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 2304x1296 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.917515 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.504203 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1182.
+Total: 0.426666 ms (FindLiveObjects: 0.053971 ms CreateObjectMapping: 0.022974 ms MarkObjects: 0.323099 ms  DeleteObjects: 0.026256 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.886882 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1182.
+Total: 0.440523 ms (FindLiveObjects: 0.067099 ms CreateObjectMapping: 0.022245 ms MarkObjects: 0.344979 ms  DeleteObjects: 0.005470 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.943771 ms
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 935.
+Total: 0.710381 ms (FindLiveObjects: 0.057982 ms CreateObjectMapping: 0.048501 ms MarkObjects: 0.380717 ms  DeleteObjects: 0.222450 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.731532 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 1008.
+Total: 0.510541 ms (FindLiveObjects: 0.070746 ms CreateObjectMapping: 0.041207 ms MarkObjects: 0.367589 ms  DeleteObjects: 0.030632 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.832911 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 935.
+Total: 0.642917 ms (FindLiveObjects: 0.056524 ms CreateObjectMapping: 0.022245 ms MarkObjects: 0.408068 ms  DeleteObjects: 0.155715 ms)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+D3D9: failed to create vertex buffer of size 53880 [invalid call]
+D3D9: failed to create index buffer of size 2244 [invalid call]
+D3D9: attempt to lock null vertex buffer
+D3D9: attempt to lock null index buffer
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.736273 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1182.
+Total: 0.580193 ms (FindLiveObjects: 0.050324 ms CreateObjectMapping: 0.036102 ms MarkObjects: 0.466051 ms  DeleteObjects: 0.027350 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.883600 ms
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 935.
+Total: 0.849686 ms (FindLiveObjects: 0.039749 ms CreateObjectMapping: 0.040843 ms MarkObjects: 0.538620 ms  DeleteObjects: 0.230108 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.672455 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1008.
+Total: 0.467509 ms (FindLiveObjects: 0.061994 ms CreateObjectMapping: 0.021515 ms MarkObjects: 0.353002 ms  DeleteObjects: 0.030632 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.660421 ms
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 935.
+Total: 0.719498 ms (FindLiveObjects: 0.089709 ms CreateObjectMapping: 0.055794 ms MarkObjects: 0.458028 ms  DeleteObjects: 0.115965 ms)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1918 -> priority: 1 
+  Thread -> id: 3fb4 -> priority: 1 
