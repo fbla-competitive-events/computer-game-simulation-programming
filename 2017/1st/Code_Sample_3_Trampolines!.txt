@@ -1,0 +1,14 @@
+//the below code block is written in GML (gamemaker language) and manages the mouse character's trampoline jumping!
+
+
+vspeed = max(2.5,vspeed); //if the character's vertical speed is too slow, set it to +2.5 minimum speed
+vspeed += 1.25; //then, increase player's vertical speed by +1.25; (enables character to bounce multiple times to get higher)
+vspeed = -(abs(vspeed)); //reverse the vertical speed direction; player is now moving up/"jumping"
+
+other.sprite_index = spr_trampohit; //trampoline sprite changes to "bounced" animation
+other.image_speed = .5; //sets the animation speed for the trampoline
+
+//plays the trampoline sound, but only if the 'jump' sound is not already playing
+if !audio_is_playing(snd_mappy_jump) && !audio_is_playing(snd_trampoline) { 
+    audio_play_sound(snd_trampoline,0,0);
+}

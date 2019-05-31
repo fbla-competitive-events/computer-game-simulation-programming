@@ -1,0 +1,41 @@
+//the code block below is written in GML (gamemaker language) and allows the game to update its saved high score data.
+
+//1. transfer scores from .ini text file to global array --------------------------------------------------------------
+
+ini_open("scores.ini"); //open text file for data retrieval
+
+for (i=0;i<10;i+=1) { //retrieve 10 sets of score and name data and put them into the game's array system
+    global.score_array[i,0] = ini_read_string(string(i), "Name", "---");
+    global.score_array[i,1] = ini_read_real(string(i), "Score", 0);
+}
+
+ini_close();
+
+global.important = 100; //global.important indicates the most recent score on the high score table; hidden by default
+
+
+//2. check if player's current score is bigger than any one -----------------------------------------------------------
+
+for (i=0; i<10; i+=1) { //read through each retrieved data point 
+    if score>=global.score_array[i,1] { //if the current player score is greater than a given data point...
+        for (j=9; j>i; j-=1) { //... then run another for loop, which essentially pushes any lower scores down a notch.
+            global.score_array[j,0] = global.score_array[j-1,0];
+            global.score_array[j,1] = global.score_array[j-1,1];
+        }
+        global.score_array[i,0] = global.name; //the current score then gets an empty spot to replace on the table.
+        global.score_array[i,1] = score;
+        global.important = i; //<-- doing this will allow the player to see which score is the most recent
+        break;
+    }
+}
+
+//3. transfer score values from game array to .ini file -----------------------------------------------------------------
+
+ini_open("scores.ini");
+
+for (i=0;i<10;i+=1) { //write over the text file's data with new data, which now includes the current player's score
+    ini_write_string(string(i), "Name", global.score_array[i,0]);
+    ini_write_real(string(i), "Score", global.score_array[i,1]);
+}
+
+ini_close();

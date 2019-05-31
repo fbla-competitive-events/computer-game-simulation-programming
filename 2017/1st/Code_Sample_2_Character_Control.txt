@@ -1,0 +1,60 @@
+//the below code block is written in GML (gamemaker language) and handles much of the controls and animation for the mouse character
+
+
+event_inherited(); //inherits any variables or actions from its parent object, just in case 
+
+//keyboard input and movement ------------------------------------------------------------------------------
+if keyboard_check(left) && hspeed > -spd { //moving left (holding down key will increase speed incrementally)
+    hspeed += -spd*.5;
+}
+if keyboard_check(right) && hspeed < spd { //moving right
+    hspeed += spd*.5;
+}
+if !keyboard_check(left) && !keyboard_check(right) { //if neither left or right are pressed, character stands still
+    hspeed = 0;
+}
+if keyboard_check_pressed(up) && !place_free(x,y+1) { //jumping; only allowed if on solid footing.
+    vspeed = -jsp;
+    audio_play_sound(snd_mappy_jump,0,0);
+}
+friction = 0; //character has no built in friction, since standing still is already defined.
+
+//gravity---------------------------------------------------------------------------------------------------
+if place_free(x,y+1) { //if located in mid-air, initiates an exponential downward force of gravity
+    vspeed += .2;
+}
+if vspeed > 6 { //limits character's falling speed to 5
+    vspeed = 6;
+}
+
+//spriting and appearance----------------------------------------------------------------------------------
+
+//facing direction
+if hspeed > 0 { //if moving right, character sprite is flipped to face right
+    image_xscale = 1;
+}
+if hspeed < 0 { //if moving left, faces left
+    image_xscale = -1;
+}
+
+//animation control
+if hspeed != 0 && !place_free(x,y+1) { //if character is moving and on solid footing, then...
+    sprite_index = sprwalk; //...has walking animation...
+    
+    //...and will make a footstep sound at certain points of this animation.
+    if (round(image_index) = 0 or round(image_index) = 2) && !audio_is_playing(snd_mappy_step) { 
+        audio_play_sound(snd_mappy_step,0,0);
+    }
+}
+if hspeed = 0 && !place_free(x,y+1) { //if character is not moving, then has a standing sprite
+    sprite_index = spr;
+}
+if vspeed < 0 { //if moving upward, has the jump animation.
+    sprite_index = sprjump;
+}
+if vspeed > 0 { //if falling, has the falling animation.
+    sprite_index = sprjumpd;
+}
+image_speed = .1*hspeed; //character animation increases slightly with higher horizontal speeds, for more believable/reactive animations
+
+
