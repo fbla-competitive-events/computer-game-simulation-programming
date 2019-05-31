@@ -1,0 +1,5 @@
+If there is an editor folder OUTSIDE the Standard Assets folder here it is because in 4.6,
+UnityEditor.UI.dll isn't included in the compilation phase of "Standard Assets", stoping us
+from using any of the UI editor classes.
+
+This bug have been fix in 5.x release.

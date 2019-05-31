@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1894745828135782}
+  m_IsPrefabParent: 1
+--- !u!1 &1894745828135782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4222701280346216}
+  - component: {fileID: 114450139414190338}
+  m_Layer: 0
+  m_Name: _persist
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4222701280346216
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1894745828135782}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114450139414190338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1894745828135782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 042e1608485a8d544ace3bce792fcf3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upperarmlist: []
+  hairlist: []
+  upperarm: 0
+  lowerarmS: {fileID: 0}
+  lowerarmleftS: {fileID: 0}
+  headS: {fileID: 0}
+  handS: {fileID: 0}
+  handleftS: {fileID: 0}
+  neckS: {fileID: 0}
+  lowerarm: 0
+  lowerleg: 0
+  upperleg: 0
+  body: 0
+  skintone: {r: 0, g: 0, b: 0, a: 0}
+  shoes: 0
+  hair: 0

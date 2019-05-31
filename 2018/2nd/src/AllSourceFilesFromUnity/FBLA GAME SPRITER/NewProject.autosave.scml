@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r11">
+    <folder id="0" name="head">
+        <file id="0" name="head/head.png" width="186" height="186" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="head/hair.png" width="259" height="208" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="1" name="body">
+        <file id="0" name="body/body.png" width="98" height="98" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <obj_info name="bone_000" type="bone" w="123.004" h="10"/>
+        <animation id="0" name="NewAnimation" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="3" key="0"/>
+                    <object_ref id="0" timeline="2" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" parent="0" timeline="1" key="0" z_index="2"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="head">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-57.054283" y="-81.668898" angle="90.6662"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="hair">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="-118.85243" y="-99.38863" angle="90.6662"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="body">
+                <key id="0" spin="0">
+                    <object folder="1" file="0" x="-20" y="3"/>
+                </key>
+            </timeline>
+            <timeline id="3" obj="0" name="bone_000" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="20" y="111" angle="269.3338"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

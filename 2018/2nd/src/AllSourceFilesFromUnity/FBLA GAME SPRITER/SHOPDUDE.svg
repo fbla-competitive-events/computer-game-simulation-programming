@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="SHOPDUDE.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="414.78697"
+     inkscape:cy="867.64285"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g457"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:object-paths="true"
+     showguides="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.31363928"
+       d="m 91.050964,118.65135 c 8.554547,0.98478 5.368854,4.67486 5.288946,8.03563 -0.125801,5.28975 -2.942069,7.17276 -6.304864,6.6002 -1.338227,-0.22806 -2.195768,-3.68891 -1.915281,-7.73049 0.280531,-4.0416 1.592836,-7.13324 2.931142,-6.90538 z"
+       id="path39-7-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:transform-center-x="-0.11561943"
+       inkscape:transform-center-y="5.8305713" />
+    <g
+       id="g4559"
+       transform="matrix(0.69864278,0,0,0.65358615,39.825252,18.613246)">
+      <path
+         sodipodi:nodetypes="ssssss"
+         inkscape:connector-curvature="0"
+         id="path3699"
+         d="M 113.77084,92.136911 C 112.6857,108.33667 96.790225,120.50685 78.997027,126.53274 50.817437,136.07612 49.981126,98.888761 45.357144,91.380959 41.977078,85.892861 42.86218,79.959158 46.285518,74.643861 c 5.916208,-9.18589 19.41329,-16.524808 31.57758,-16.524808 19.205046,0 37.135512,15.68889 35.907742,34.017858 z"
+         style="fill:#a05a2c;stroke-width:0.45815858"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         inkscape:transform-center-y="-4.1577381"
+         inkscape:transform-center-x="-3.7797619"
+         transform="rotate(11.513761)"
+         ry="7.1815476"
+         rx="5.2916665"
+         cy="71.250008"
+         cx="96.676094"
+         id="path3712-5"
+         style="fill:#ffffff;stroke-width:0.19298264"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         inkscape:transform-center-y="-3.3230098"
+         inkscape:transform-center-x="-3.64735"
+         transform="rotate(-17.551632)"
+         ry="3.779762"
+         rx="3.4017859"
+         cy="109.69486"
+         cx="47.920898"
+         id="path3732-6"
+         style="fill:#000000;stroke-width:0.20990157"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         transform="rotate(11.760155)"
+         ry="7.1815476"
+         rx="5.2916665"
+         cy="75.363663"
+         cx="77.076363"
+         id="path3712-5-3"
+         style="fill:#ffffff;stroke-width:0.19298264"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         transform="rotate(-17.305238)"
+         ry="3.779762"
+         rx="3.4017859"
+         cy="103.80962"
+         cx="28.58116"
+         id="path3732-6-8"
+         style="fill:#000000;stroke-width:0.20990157"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect22"
+         d="m 63.043742,112.33177 h 13.607143 c 0.873279,0.73716 2.68123,1.30689 0,2.26785 H 63.043742 c -2.941813,-0.95527 -0.226865,-1.53848 0,-2.26785 z"
+         style="fill:#784421;stroke-width:0.26458332"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ssssss"
+         inkscape:connector-curvature="0"
+         id="path3701"
+         d="m 74.083332,103.4436 c -0.692562,2.84596 -3.12183,3.97967 -4.431602,4.02026 -1.178002,0.0365 -2.422511,-0.47384 -3.516426,-1.23215 -0.940944,-0.65228 -1.819627,-1.43887 -1.879355,-2.78811 -0.163316,-3.689229 2.627212,1.71705 5.340969,1.71705 2.713757,0 5.359583,-5.305177 4.486414,-1.71705 z"
+         style="fill:#84460d;fill-opacity:1;stroke-width:0.11602046"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cscsc"
+         inkscape:connector-curvature="0"
+         id="path4531"
+         d="m 67.445003,79.745724 c 0.04359,1.428917 -3.134337,0.05303 -6.999115,0.17096 -3.864778,0.117943 -6.952898,1.685082 -6.996517,0.25613 -0.04362,-1.42893 3.054067,-2.682927 6.918864,-2.800867 3.864794,-0.117931 7.033176,0.944851 7.076768,2.373777 z"
+         style="fill:#241c1c;fill-opacity:1;stroke-width:0.31411141"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cscsc"
+         inkscape:connector-curvature="0"
+         id="path4531-8"
+         d="m 88.46919,80.598158 c -0.07587,1.427566 -3.127819,-0.20886 -6.988948,-0.414024 -3.861131,-0.205166 -7.069317,1.09866 -6.993472,-0.328946 0.07584,-1.427576 3.267412,-2.418555 7.128561,-2.213388 3.861147,0.205166 6.929728,1.528784 6.853859,2.956358 z"
+         style="fill:#241c1c;fill-opacity:1;stroke-width:0.31411144"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="sccsss"
+         inkscape:connector-curvature="0"
+         id="path3699-5"
+         d="M 39.388207,271.58836 C 38.303065,287.78812 22.40759,299.9583 4.6143936,305.98419 -14.505092,316.82759 -19.728225,287.2885 -29.02549,270.8324 c -3.380064,-5.4881 -2.494963,-11.4218 0.928375,-16.73709 5.916207,-9.1859 19.4132886,-16.52481 31.5775776,-16.52481 19.2050484,0 37.1355124,15.68889 35.9077444,34.01786 z"
+         style="fill:#a05a2c;stroke-width:0.45815858"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         inkscape:transform-center-y="-4.1577381"
+         inkscape:transform-center-x="-3.7797619"
+         transform="rotate(11.513761)"
+         ry="7.1815481"
+         rx="5.2916665"
+         cy="261.93732"
+         cx="59.609375"
+         id="path3712-5-0"
+         style="fill:#ffffff;stroke-width:0.19298264"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         inkscape:transform-center-y="-3.3230098"
+         inkscape:transform-center-x="-3.64735"
+         transform="rotate(-17.551631)"
+         ry="3.779762"
+         rx="3.4017859"
+         cy="258.36084"
+         cx="-77.115189"
+         id="path3732-6-4"
+         style="fill:#000000;stroke-width:0.20990159"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path3759-2"
+         d="m 60.328424,264.52629 c -0.25024,16.07458 -18.014015,31.62909 -32.505459,31.88641 -12.305136,0.21851 -3.551297,-16.42606 -3.778459,-28.08899 -0.127868,-6.56507 -0.52818,-13.65741 -5.788957,-14.90627 -10.3230534,-2.4506 -30.127744,-2.26477 -37.612363,-0.0181 -5.457734,1.63823 -4.574985,6.21286 -5.725229,10.14449 -2.48828,8.50518 -1.972807,16.78303 -7.54284,5.41537 -15.766607,-32.17739 7.610063,-57.90405 44.098769,-56.53335 28.601491,1.07442 49.330588,21.51961 48.854538,52.10047 z"
+         style="fill:#000000;stroke-width:0.32110411" />
+      <ellipse
+         transform="rotate(11.760155)"
+         ry="7.1815472"
+         rx="5.2916665"
+         cy="266.20862"
+         cx="40.830017"
+         id="path3712-5-3-2"
+         style="fill:#ffffff;stroke-width:0.19298264"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         transform="rotate(-17.305238)"
+         ry="3.779762"
+         rx="3.4017859"
+         cy="253.01193"
+         cx="-95.814453"
+         id="path3732-6-8-3"
+         style="fill:#000000;stroke-width:0.20990157"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ssssss"
+         inkscape:connector-curvature="0"
+         id="path3701-4"
+         d="m -1.3997341,283.62721 c -0.4251896,1.74724 -1.9166073,2.44326 -2.7207249,2.46818 -0.7232192,0.0224 -1.4872694,-0.29091 -2.1588644,-0.75646 -0.5776804,-0.40045 -1.1171362,-0.88337 -1.1538055,-1.71172 -0.100266,-2.26495 1.6129427,1.05416 3.2790188,1.05416 1.666076,0 3.29044732,-3.25705 2.754376,-1.05416 z"
+         style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.07122926"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cscscc"
+         inkscape:connector-curvature="0"
+         id="path4531-4"
+         d="m -6.9415009,259.14516 c -0.2024906,2.08443 -3.2530791,0.8498 -6.9874681,0.4376 -3.84464,-0.42424 -6.911662,1.08547 -6.983208,0.4741 -0.07155,-0.61135 2.99791,-1.31109 6.855817,-1.56284 3.857901,-0.25178 7.0433368,0.0398 7.114847,0.65123 z"
+         style="opacity:0.93999999;fill:#241c1c;fill-opacity:1;stroke-width:0.20596288"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cscscc"
+         inkscape:connector-curvature="0"
+         id="path4531-4-2"
+         d="m 0.09828088,259.07693 c 0.18479505,2.08631 3.24573292,0.88132 6.98346782,0.50534 3.8480723,-0.38705 6.9021643,1.15243 6.9788963,0.54178 0.07673,-0.61064 -2.986661,-1.34009 -6.8422722,-1.62925 -3.8556084,-0.28918 -7.04338494,-0.0285 -7.12008381,0.58218 z"
+         style="opacity:0.93999999;fill:#241c1c;fill-opacity:1;stroke-width:0.20596288"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path860"
+         d="m 4.6849106,293.36133 c -0.2249011,-0.10612 -0.5097244,-0.10285 -0.7139363,0.0198 -0.041498,0.017 -0.2254975,0.083 -0.562909,0.083 -0.3805195,0 -0.8136275,-0.0824 -1.2871603,-0.24492 -0.4176655,-0.14329 -0.85286,-0.37799 -1.31345464,-0.62642 -0.84874578,-0.45773 -1.72646901,-0.93116 -2.71491356,-0.93116 -0.5856258,0 -1.1281434,0.16853 -1.6124085,0.50095 l -0.40425,0.27747 -0.4042499,-0.27747 c -0.4842651,-0.33242 -1.0267828,-0.50095 -1.6124085,-0.50095 -0.9883255,0 -1.8660486,0.47339 -2.7149138,0.93116 -0.4607137,0.24848 -0.8958487,0.48313 -1.3135137,0.62646 -0.4734734,0.16251 -0.9065804,0.24488 -1.2871594,0.24488 -0.337471,0 -0.521591,-0.0661 -0.563088,-0.0831 -0.204272,-0.12268 -0.489036,-0.12583 -0.713877,-0.0198 -0.227583,0.10743 -0.301399,0.31746 -0.20123,0.49404 0.02248,0.0396 0.565771,0.98106 1.921558,1.92183 1.2518614,0.8686 3.4631924,1.90408 6.8888823,1.90408 3.42568995,0 5.6370205,-1.03545 6.8888238,-1.90408 1.3557874,-0.94077 1.8991399,-1.88225 1.9214988,-1.92187 0.1001676,-0.17658 0.026294,-0.38669 -0.2012903,-0.49408 z m -12.6043092,-0.12612 c 0.6894309,-0.37185 1.4024728,-0.75634 1.9785588,-0.75634 0.1670065,0 0.4283976,0.0271 0.7696251,0.2614 l 0.8256714,0.56675 c 0.111735,0.0767 0.2633587,0.11978 0.421362,0.11978 0.1580629,0 0.3096268,-0.0431 0.421362,-0.11978 l 0.8256715,-0.56675 c 0.3412871,-0.23428 0.6026185,-0.2614 0.7696249,-0.2614 0.576086,0 1.28906835,0.38449 1.97855878,0.75634 0.4871868,0.26279 0.99094892,0.53441 1.51677192,0.71488 0.097187,0.0333 0.1934199,0.0632 0.2892951,0.0916 -1.24184614,0.25759 -3.1140957,0.49458 -5.8012246,0.49458 -2.6870097,0 -4.5593188,-0.23699 -5.8012249,-0.49458 0.09582,-0.0284 0.192049,-0.0583 0.289236,-0.0916 0.5256439,-0.18043 1.0295254,-0.45209 1.516712,-0.71488 z m 3.9952173,3.62904 c -2.4017691,0 -4.422959,-0.55105 -6.0072253,-1.63773 -0.2565614,-0.17597 -0.4797924,-0.35243 -0.6735704,-0.52157 1.3537594,0.3279 3.4924087,0.64842 6.6807957,0.64842 3.18838685,0 5.3270359,-0.32052 6.6807365,-0.64842 -0.1937775,0.16918 -0.4169499,0.34564 -0.6735114,0.52161 -1.58426622,1.08668 -3.605456,1.63769 -6.0072251,1.63769 z"
+         inkscape:connector-curvature="0"
+         style="fill:#800000;stroke-width:0.04937891"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.67166233;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -5.1481082,296.71111 c -0.6731396,-0.0507 -1.7074946,-0.2389 -2.2985724,-0.41827 -1.0460391,-0.31744 -2.9217284,-1.22906 -2.7587814,-1.34082 0.04468,-0.0307 0.7752874,0.0452 1.6235696,0.16837 2.516596,0.36565 7.4593466,0.29541 10.4433152,-0.14842 l 0.667575,-0.0993 -0.7788382,0.48462 c -1.67935942,1.04496 -4.2637471,1.55216 -6.8982678,1.35381 z"
+         id="path883"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.67166233;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -8.0264839,294.27024 c -0.6651915,-0.0809 -1.2394607,-0.16765 -1.2761567,-0.19281 -0.183152,-0.12563 2.8448168,-1.47486 3.3098896,-1.47486 0.3082451,0 0.8125644,0.19594 1.178428,0.45787 0.7966112,0.57028 0.9835919,0.57028 1.7801986,0 0.365868,-0.26193 0.8701831,-0.45787 1.1784325,-0.45787 0.2963672,0 1.18406305,0.32492 1.97265128,0.72206 l 1.43379952,0.72206 -0.62350414,0.13054 c -0.92582778,0.19382 -7.55809746,0.26272 -8.95373866,0.093 z"
+         id="path885"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1.67166233;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -6.0972955,296.56707 c -1.0278258,-0.17803 -2.2461304,-0.60289 -3.2787851,-1.14342 l -0.7788384,-0.40767 1.2238871,0.12874 c 1.5048822,0.15831 7.8594123,0.16941 9.67983106,0.0169 l 1.33515014,-0.11185 -0.7740801,0.45734 c -1.56459355,0.9244 -5.1925663,1.44356 -7.4071647,1.05996 z"
+         id="path887"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehead.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cscscccscc"
+         inkscape:connector-curvature="0"
+         id="path3759-6"
+         d="m 158.83994,361.64844 c -0.84876,-6.50352 2.18171,3.62603 7.46591,4.75631 5.49335,1.17502 1.80332,66.33236 -11.93944,63.9201 6.79737,-33.00562 10.29545,-77.23738 -12.70192,-75.21216 -5.14602,0.45317 -16.36511,-4.24748 -24.60283,7.5149 -5.32553,23.03525 -0.58006,96.3745 -16.09356,2.18676 4.90288,-41.70167 56.30498,-39.29673 74.07605,-15.18581 7.25646,36.35961 3.1739,61.95945 -3.53928,76.83413 -2.10304,4.6598 -6.03389,3.354 -9.96851,5.20232 14.93573,-40.17712 5.16512,-68.77855 -2.69642,-70.01655 z"
+         style="fill:#000000;stroke-width:0.32110411"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\femalehair1.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         id="g902"
+         transform="translate(136.87678,166.55363)">
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\spikey.png"
+           style="fill:#000000;stroke-width:0.32110411"
+           d="m 59.070035,47.059529 c -5.14602,0.453174 -14.201047,0.379011 -22.438772,12.141391 -4.931126,9.544396 4.7393,65.93819 -11.765432,5.656632 C 29.768703,23.15588 81.170798,25.560825 98.941871,49.671745 98.634751,138.97831 112.2195,34.953826 59.070035,47.059529 Z"
+           id="path3759"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\spikey.png"
+           sodipodi:nodetypes="cccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path894"
+           d="M 29.017638,65.071164 -13.722543,51.770004 17.115307,40.203783 -15.345588,28.059246 37.673876,26.324312 6.8360293,2.0352428 50.117217,17.649646 31.722707,-5.4828048 C 49.358491,6.3376938 95.063676,15.335315 104.21873,42.517025 L 106.38277,89.938549 101.51364,69.119343 91.775366,113.071 84.742172,55.818184 79.873041,35.577294 45.789101,36.155605 27.935609,68.541032"
+           style="fill:#000000;stroke:#000000;stroke-width:0.39154661px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.25819388"
+       d="m 101.2624,132.13226 c 2.34447,-5.52443 3.49543,-0.75826 7.04391,2.26217 3.54077,3.01386 3.50356,4.13696 1.39077,5.7669 -0.8408,0.64865 -2.72825,-0.20286 -5.62566,-2.38886 -3.19161,-2.40792 -5.344013,-4.3143 -2.80902,-5.64021 z"
+       id="path39-3-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscc" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.25819388"
+       d="m 91.218246,130.80843 c 4.854212,-4.10134 3.511995,0.64451 5.189203,4.72464 1.673578,4.07126 1.080745,5.07223 -1.625693,5.74163 -1.077039,0.26643 -2.345304,-1.22135 -3.854386,-4.29955 -1.662347,-3.39074 -2.642702,-5.93275 0.290873,-6.16672 z"
+       id="path39-3-7-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscc" />
+    <path
+       sodipodi:nodetypes="sssssss"
+       inkscape:connector-curvature="0"
+       id="path4421"
+       d="m 100.73973,142.23178 c 0,1.88024 -2.603793,1.89138 -5.815724,1.89138 -3.211922,0 -8.031216,0.74543 -8.031216,-1.13483 0,-0.62789 3.147696,-3.29698 4.127153,-3.6335 1.19711,-0.41131 2.601587,0.78446 4.162941,0.25887 0.986742,-0.33219 1.682052,-2.29955 2.510515,-2.29955 3.211931,0 3.046331,3.03737 3.046331,4.91763 z"
+       style="fill:#552200;fill-opacity:1;stroke:none;stroke-width:0.02157051;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Owner\Documents\Development\Spriter Main char\legs\shoe.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.31363928"
+       d="m 97.799888,122.13178 c 8.477672,-1.40947 6.752942,2.97086 7.863592,6.18675 1.7481,5.06171 -0.26356,7.62338 -3.66161,8.0012 -1.35232,0.15015 -3.389224,-2.90381 -4.549632,-6.8217 -1.16036,-3.91792 -1.00475,-7.2159 0.34758,-7.36628 z"
+       id="path39-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:transform-center-x="-1.8582323"
+       inkscape:transform-center-y="5.878822" />
+    <g
+       transform="matrix(0.03650548,-0.82660244,0.82660244,0.03650548,11.135393,175.00502)"
+       id="g57-0-8"
+       inkscape:transform-center-x="-2.9097556"
+       inkscape:transform-center-y="10.490097">
+      <path
+         sodipodi:nodetypes="cscscc"
+         inkscape:connector-curvature="0"
+         id="path39-3-3-5-9"
+         d="m 58.445507,49.993397 c 2.22837,7.46507 -2.09703,3.04347 -6.9726,2.03469 -4.86495,-1.00657 -5.65067,-2.24468 -5.23218,-5.35117 0.16653,-1.23627 2.21267,-1.51616 5.99059,-0.99552 4.16149,0.57348 7.17267,1.26569 6.21419,4.312 z"
+         style="fill:#784421;fill-opacity:1;stroke:none;stroke-width:0.29207948"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\Arm\lower.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cscsc"
+         inkscape:connector-curvature="0"
+         id="path39-4-1-1"
+         d="m 121.52309,161.27773 c 3.7335,8.35654 -1.39561,8.77155 -4.53629,11.6233 -4.94331,4.48856 -8.20661,3.65641 -9.50335,0.21024 -0.51608,-1.37146 2.20844,-5.13229 6.08537,-8.40007 3.87694,-3.26779 7.43819,-4.80501 7.95427,-3.43353 z"
+         style="fill:#00ffcc;fill-opacity:1;stroke:none;stroke-width:0.3548016"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\Arm\blackupper.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         style="fill:#784421"
+         transform="matrix(0.22597142,0.46175005,-0.35246382,0.24259638,73.508227,21.574694)"
+         id="g473-7-6-1"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\Arm\hand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           sodipodi:nodetypes="sssssssss"
+           inkscape:connector-curvature="0"
+           id="rect512-6-5-7"
+           d="m -60.431679,55.163193 h 6.974123 c 2.076351,0 3.747925,1.671574 3.747925,3.747925 v 9.898832 c 0,2.07635 -1.671574,3.747925 -3.747925,3.747925 h -6.974123 c -2.07635,0 -2.529806,-2.104558 -3.747925,-3.747925 -2.402604,-3.241359 -2.105817,-6.548165 0,-9.898832 1.091731,-1.737106 1.671575,-3.747925 3.747925,-3.747925 z"
+           style="fill:#784421;fill-opacity:1;stroke:none;stroke-width:0.56235147"
+           transform="matrix(0.62601375,-0.77981202,0.7295629,0.68391371,0,0)" />
+      </g>
+    </g>
+    <g
+       transform="translate(37.289538,-0.93810098)"
+       id="g457"
+       inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\body/blackbody.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g445"
+         style="fill:#00d4aa">
+        <path
+           id="path33-1"
+           d="m 93.692707,98.953058 c -4.336389,0 -6.998663,1.775542 -8.54696,4.500502 -1.38952,2.44553 -1.881728,5.65576 -1.881726,9.03407 0,3.30698 2.90969,5.48384 4.232942,7.63209 0.192206,0.31205 0.364115,0.61946 0.526525,0.91881 5.871351,0.60118 10.654402,0.74381 15.074082,0.28267 1.59626,-4.42864 2.28977,-5.91824 3.25861,-9.43508 1.96724,-7.14099 -1.78709,-12.933062 -12.663473,-12.933062 z m 2.359228,25.851652 c -0.252276,0.004 -0.503534,0.0103 -0.757498,0.0119 0.253307,-0.002 0.505866,-0.006 0.757498,-0.0119 z m -2.888109,0.002 c 0.170145,0.008 0.344605,0.0124 0.528881,0.0124 -0.186762,0 -0.356617,-0.006 -0.528881,-0.0124 z"
+           style="fill:#00d4aa;fill-opacity:1;stroke:none;stroke-width:0.21439517"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Admin\Documents\FBLA GAME SPRITER\body\body.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <g
+         id="g442">
+        <path
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.23721255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 87.232718,108.93423 4.654487,11.15799 3.02608,-10.91016 c 0,0 -7.508177,0.58485 -7.680567,-0.24783 z"
+           id="path112-5"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Admin\Documents\FBLA GAME SPRITER\total.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#784421;fill-opacity:1;stroke:none;stroke-width:0.14979392"
+           d="m 86.20119,118.39371 c 0.819681,1.10662 0.726255,2.29873 1.691596,3.1374 0.108941,0.0946 0.209588,0.18813 0.307038,0.28077 h 14.817966 c 0.92923,-1.36637 0.61467,-2.56974 1.17365,-3.47097 z"
+           id="path33-0-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc"
+           inkscape:export-filename="C:\Users\Admin\Documents\FBLA GAME SPRITER\total.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g98-0"
+           transform="matrix(0.91216515,0,0,0.8812049,39.58458,26.006691)"
+           inkscape:export-filename="C:\Users\Admin\Documents\FBLA GAME SPRITER\total.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <ellipse
+             ry="3.2127976"
+             rx="3.8742559"
+             cy="104.98809"
+             cx="56.79092"
+             id="path54-2"
+             style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+          <ellipse
+             ry="1.1339284"
+             rx="1.4174106"
+             cy="104.7991"
+             cx="56.034966"
+             id="path56-6"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13765369" />
+          <ellipse
+             ry="0.75595224"
+             rx="0.94494033"
+             cy="102.81473"
+             cx="58.208332"
+             id="path56-8-3"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09176912" />
+          <ellipse
+             ry="0.7559523"
+             rx="0.94494033"
+             cy="105.93304"
+             cx="58.964283"
+             id="path56-8-1-3"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09176912" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.91216514,0,0,1,38.628902,5.7041813)"
+       id="g123"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Admin\Documents\FBLA GAME SPRITER\body\hip.png"
+       style="fill:#000000">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Admin\Documents\FBLA GAME SPRITER\total.png"
+         sodipodi:nodetypes="cscccc"
+         inkscape:connector-curvature="0"
+         id="path33-9"
+         d="m 87.469814,122.31446 c 1.559036,1.84532 1.949619,3.44518 6.653342,3.44518 4.22347,0 8.889354,0.0912 10.115134,-2.31055 0.21027,-0.41199 0.25008,-0.85565 0.43457,-1.20925 -5.080026,0.5055 -10.573262,0.34487 -17.428314,-0.32062 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19675615" />
+    </g>
+    <g
+       id="g47"
+       transform="matrix(0.63335823,0,0,0.46512443,25.291721,53.001783)"
+       inkscape:export-filename="C:\Users\Admin\Documents\FBLA GAME SPRITER\head\neck.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="fill:#cccccc">
+      <path
+         sodipodi:nodetypes="cscc"
+         inkscape:connector-curvature="0"
+         id="path26"
+         d="m 65.961249,107.54978 c 4.413766,5.81034 3.041195,19.31139 -10.380668,22.65325 -8.248478,2.05376 -14.217044,-18.17138 -9.658651,-20.2244 12.60085,-4.43582 11.46745,-2.95059 20.039319,-2.42885 z"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.25431135"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\neck.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cscsc"
+         inkscape:connector-curvature="0"
+         id="path29"
+         d="m 65.163648,121.71696 c 0.888711,2.26159 -3.59009,4.09364 -7.395996,6.11112 -3.805896,2.01747 -7.409448,0.36296 -8.29816,-1.89864 -0.888708,-2.26161 3.231578,-1.23005 7.037475,-3.24751 3.805905,-2.01749 7.767968,-3.22658 8.656681,-0.96497 z"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26579317"
+         inkscape:export-filename="C:\Users\Admin\Documents\GitHub\Personal-Dev-Stuff\Dev\Assets\FBLA GAME SPRITER\head\neck.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>

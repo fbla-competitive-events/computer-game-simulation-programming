@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1882992462374044}
+  m_IsPrefabParent: 1
+--- !u!1 &1882992462374044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4059728307853994}
+  - component: {fileID: 114801792959352348}
+  m_Layer: 0
+  m_Name: _GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4059728307853994
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1882992462374044}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 5.81, z: -5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114801792959352348
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1882992462374044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 042e1608485a8d544ace3bce792fcf3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  doesCurrentGameExist: 0
+  isShopItselfOpen: 0
+  isShopOpen: 0
+  gameShopItems:
+  - coin
+  - gem
+  - heart
+  - star
+  - powerup
+  shopItemsCosts:
+  - 300
+  - 600
+  - 600
+  - 1000
+  - 1000
+  selectedItem: {fileID: 0}
+  itemCount: 0
+  selectedItemIndex: 0
+  rating: 0
+  competeingRatings: []
+  isCompeting: 0
+  canCompete: 1
+  results: {fileID: 1633510033938580, guid: 212e360e4975e27409041bc7150b90ca, type: 2}
+  totalMoney: 1000
+  moneyClickMultiplier: 0
+  shopItems: []
+  shopCounts: 00000000000000000000000000000000
+  shopItemValue:
+  - 0.1
+  - 1
+  - 10
+  - 50
+  shopPrices:
+  - 10
+  - 100
+  - 1000
+  - 10000
+  donutsPerSecond: 0
+  isDonutShopOpen: 0
+  selectedDonutShopButton: {fileID: 0}
+  currentDonutShopSelection: 0
+  screenRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  isDialogOpen: 0
+  currentDialogButtonSelectionIndex: 0
+  selectedDialogButton: {fileID: 0}
+  gameCount: 0
+  currentGameSelectionIndex: 0
+  isClearBugsClicked: 0
+  currentGameButtonSelectionIndex: 1
+  isPCOpen: 0
+  selectedGame: {fileID: 0}
+  selectedButton: {fileID: 0}
+  programmingLevel: 1
+  bugCheckLevel: 1
+  currentScene: 
+  latestScene: playerhome
+  latestCharPositionIndoors: {x: 0, y: 0, z: 0}
+  latestCharPositionOutdoors: {x: 0, y: 0, z: 0}
+  wordStarted: 0
+  isGameOver: 0
+  unlockedWordList:
+  - castle
+  - minion
+  - key
+  - spikes
+  - sign
+  allGamesNames: []
+  allGames:
+  - name: 
+    bugs: 0
+    rating: 0
+    wordCount: []
+    score: 0
+  upperarm: 0
+  isCharFlipCorrect: 1
+  lowerarm: 0
+  lowerleg: 0
+  upperleg: 0
+  body: 0
+  skintone: {r: 1, g: 0.6, b: 0.4, a: 1}
+  hairColor: {r: 0, g: 0, b: 0, a: 1}
+  shoes: 0
+  hair: 1
+  hairSpriteList:
+  - {fileID: 21300000, guid: 4ddb905450262404d92e06df2ce588f8, type: 3}
+  - {fileID: 21300000, guid: d3a3496028ffe954697dd4e9f241a215, type: 3}
+  - {fileID: 21300000, guid: f6666d30b26977e4d9e6ae866edf2fcd, type: 3}
+  - {fileID: 21300000, guid: 05ece00d0e7f892498e0313d60a0f864, type: 3}
+  - {fileID: 21300000, guid: 627d41aae92e08d4abd11302b29e9ade, type: 3}
+  bodySpriteList:
+  - {fileID: 21300000, guid: 2d549f73cf944894385cef1369cb975b, type: 3}
+  - {fileID: 21300000, guid: 0c33b1e4757acda4993a0f52428c3ae0, type: 3}
+  - {fileID: 21300000, guid: b3d3ddb953f73284ba43618931329379, type: 3}
+  - {fileID: 21300000, guid: ec64be31376fa65409804d5f8ed43b29, type: 3}
+  - {fileID: 21300000, guid: 19e4b64a46de11e4ebb1d22e2b078729, type: 3}
+  - {fileID: 21300000, guid: 52e301d60dac0834a95fcb3494221395, type: 3}
+  - {fileID: 21300000, guid: 9bc292d2e141f11409b90e0b329e9ec7, type: 3}
+  upperSpriteList:
+  - {fileID: 21300000, guid: 085ccdd8dcbe433408c022b82c17c598, type: 3}
+  - {fileID: 21300000, guid: 91b976d6593a4c240838f38d178e69ac, type: 3}
+  - {fileID: 21300000, guid: 8d3460faa69a90e44b729af373fdf7c3, type: 3}
+  - {fileID: 21300000, guid: 7084c5519251d7f46a9d03ee80b900f6, type: 3}
+  - {fileID: 21300000, guid: f1a47298433db754a9cb20effebcba90, type: 3}
+  - {fileID: 21300000, guid: c3ca6ebe3ce854c4482db8ce1ce81a35, type: 3}
+  - {fileID: 21300000, guid: 011ea80334cd4074fa95179ac89b7d4f, type: 3}
+  faceSpriteList:
+  - {fileID: 21300000, guid: c9f2aa151e1bb20499fe91e524c73274, type: 3}
+  - {fileID: 21300000, guid: ec2e50b03a6cf1244b86f6c9092bbe1a, type: 3}
+  selectedBody: 0
+  selectedFace: 0
+  selectedHair: 0
+  sceneName: 
