@@ -1,0 +1,9 @@
+Welcome to FBLA 2K18! Press [Enter] to continue with text dialogs.
+Let's get started! Use [W], [A], [S], [D] to move.
+Use Arrow Keys to turn left, right, up, or down.
+Try moving and turning. Get used to the controls!
+Press [Left Shift] to toggle sprint mode.
+Press [Tab] to pull up the menu as well as close it.
+Press [E] to interact with objects.
+Objects have a ring of fire around it.
+Try interacting with this object. (Finish)

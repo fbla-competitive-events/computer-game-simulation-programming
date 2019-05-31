@@ -1,0 +1,5 @@
+Welcome to the town of Spogelse!
+The year is 2018 and you just moved into this town.
+Your new school is just about to start after summer break.
+You become curious about your new school's campus.
+[Objective] Follow the Minimap to venture into the campus.
