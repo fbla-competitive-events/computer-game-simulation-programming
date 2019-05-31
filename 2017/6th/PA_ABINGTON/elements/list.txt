@@ -1,0 +1,22 @@
+-- Element list --
+
+Hydrogen
+Atomic number 1, Atomic weight 1.008.
+Helium
+Atomic number 2, Atomic weight 4.002.
+Lithium
+Atomic number 3, Atomic weight 6.941.
+Beryllium
+Atomic number 4, Atomic weight 9.012.
+Boron
+Atomic number 5, Atomic weight 10.81.
+Carbon
+Atomic number 6, Atomic weight 12.01.
+Nitrogen
+Atomic number 7, Atomic weight 14.01.
+Oxygen
+Atomic number 8, Atomic weight 15.99.
+Fluorine
+Atomic number 9, Atomic weight 18.99.
+Neon
+Atomic number 10, Atomic weight 20.18.

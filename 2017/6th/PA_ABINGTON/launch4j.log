@@ -1,0 +1,552 @@
+
+
+Version:	3.9
+CmdLine:	L:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	L:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_65
+Check launcher:	C:\Program Files\Java\jre1.8.0_65\bin\javaw.exe (not found)
+Ignore:		1.8.0_065
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_91
+Check launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe (OK)
+Match:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_79
+Ignore:		1.7.0_079
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_66
+Ignore:		1.8.0_066
+Runtime used:	1.8.0_091 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe
+Launcher args:	-jar "L:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	L:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	L:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_65
+Check launcher:	C:\Program Files\Java\jre1.8.0_65\bin\javaw.exe (not found)
+Ignore:		1.8.0_065
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_91
+Check launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe (OK)
+Match:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_79
+Ignore:		1.7.0_079
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_66
+Ignore:		1.8.0_066
+Runtime used:	1.8.0_091 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe
+Launcher args:	-jar "L:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Exit code:	0
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Exit code:	0
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Exit code:	0
+
+
+Version:	3.9
+CmdLine:	H:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_66
+Check launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe (OK)
+Match:		1.8.0_066
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Runtime used:	1.8.0_066 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+Launcher args:	-jar "H:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Exit code:	0
+
+
+Version:	3.9
+CmdLine:	L:\Workspace\Elementarium\Elementarium.exe --l4j-debug
+WOW64:		yes
+Working dir:	L:\Workspace\Elementarium\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Check launcher:	C:\Program Files\Java\jre1.8.0_60\bin\javaw.exe (not found)
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_65
+Check launcher:	C:\Program Files\Java\jre1.8.0_65\bin\javaw.exe (not found)
+Ignore:		1.8.0_065
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_91
+Check launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe (OK)
+Match:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_79
+Ignore:		1.7.0_079
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_60
+Ignore:		1.8.0_060
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_66
+Ignore:		1.8.0_066
+Runtime used:	1.8.0_091 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe
+Launcher args:	-jar "L:\Workspace\Elementarium\Elementarium.exe"
+Args length:	49/32768 chars
+Exit code:	0

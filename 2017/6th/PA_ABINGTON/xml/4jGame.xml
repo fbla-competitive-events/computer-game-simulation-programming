@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\Workspace\Elementarium\game.jar</jar>
+  <outfile>H:\Workspace\Elementarium\Elementarium.exe</outfile>
+  <errTitle>Errz</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>E:\Workspace\Elementarium\Images\icons\Elementarium.ico</icon>
+  <singleInstance>
+    <mutexName>Elementarium v0.1</mutexName>
+    <windowTitle>Elementarium</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <initialHeapSize>512</initialHeapSize>
+    <initialHeapPercent>25</initialHeapPercent>
+    <maxHeapSize>2048</maxHeapSize>
+    <maxHeapPercent>50</maxHeapPercent>
+    <opt>-Dlaunch4j.exefile=&quot;%EXEFILE%&quot;</opt>
+  </jre>
+  <splash>
+    <file>E:\Workspace\Elementarium\Images\Special\Elementarium.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>60</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+</launch4jConfig>

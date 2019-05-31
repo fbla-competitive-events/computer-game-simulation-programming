@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>L:\Workspace\Elementarium\UTS\UTS.jar</jar>
+  <outfile>L:\Workspace\Elementarium\UTS.exe</outfile>
+  <errTitle>Errz</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>high</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest>L:\Workspace\Elementarium\UTS\launch4j\manifest\uac.exe.manifest</manifest>
+  <icon>L:\Workspace\Elementarium\UTS\Images\Icons\Ico\sansIcon.ico</icon>
+  <singleInstance>
+    <mutexName>UTS_001</mutexName>
+    <windowTitle>Undertale Sandbox</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <initialHeapSize>512</initialHeapSize>
+    <initialHeapPercent>25</initialHeapPercent>
+    <maxHeapSize>2048</maxHeapSize>
+    <maxHeapPercent>50</maxHeapPercent>
+  </jre>
+</launch4jConfig>

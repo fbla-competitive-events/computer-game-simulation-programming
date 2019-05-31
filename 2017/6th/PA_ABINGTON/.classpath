@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Elementarium/src/lwjgl-2.9.3/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Workspace/Elementarium/src/lwjgl-2.9.3/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Elementarium/src/lwjgl-2.9.3/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Elementarium/src/lwjgl-2.9.3/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="bkup"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
