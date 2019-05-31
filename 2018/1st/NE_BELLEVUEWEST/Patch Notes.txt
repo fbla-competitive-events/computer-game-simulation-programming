@@ -1,0 +1,90 @@
+------------Pre-Alpha------------
+		//0.0.1\\
+-Only player and wall objects
+-Basic player movement
+-Began work on main FBLA room
+
+		//0.0.2\\
+	Added
+-Door objects that move player into different room
+-Added fundraising, community service, and competing rooms
+
+		//0.0.3\\
+	Added
+-Trash pickup minigame for the community service minigame
+-Score system
+
+		//0.0.3a\\
+	Fixed
+-Several bugs relating to the trash pickup game
+-A glitch where the score would not appear
+
+		//0.0.4\\
+	Added
+-New soup can sorting minigame for the fundraising category
+-Money system (Money will be used for competition category once it is completed)
+
+------------Alpha------------
+		//0.1.1\\
+	Added
+-New parcour minigame for the competition category
+-Doors that allow player to go back to FBLA room to choose a different category
+-Main menu (WIP)
+
+		//0.1.2\\
+	Added
+-Complete main menu
+-Tutorial
+-Descriptions of each minigame
+	Fixed
+-Fatal crash when player places soup can in box when they dont have a can
+
+------------Release------------
+		//1.1.1\\ (The Storyline Update)
+	Added
+-Storyline, players will now have to beat their 'rival' by scoring more points than them
+-SLC Competition, this happens when the date reaches late April and features 2 events to score points
+	Balance
+-Completely reworked the soup sorting minigame map
+
+		//1.1.2\\
+	Added
+-Sound files for music and sound effects
+-Background images for each room
+-Difficulty selector
+
+		//1.1.3\\
+	Balance
+-Slowed speed of trash on road cleanup minigame
+	Fixed
+-Changed layout of main rooms
+
+		//1.1.4\\
+	Fixed
+-A ton of bugs in SLC room
+	Balance
+-Changed around difficulty settings
+
+		//1.1.5\\
+	Fixed
+-Major bug that prevented tutorial from running
+
+		//1.2.1\\ (Minigames update)
+	Added
+-Tree planting minigame to the community service category
+
+		//1.2.2\\
+	Added
+-Walking animation w/ sound
+-More music
+	Balance
+-Changed scoring in tree planting minigame
+	Fixed
+-Bug when player opened competition door without enough money
+
+		//1.2.3\\
+	Added
+-Multiplayer minigame
+
+		//1.2.4\\
+Made a few finishing touches before NLC
