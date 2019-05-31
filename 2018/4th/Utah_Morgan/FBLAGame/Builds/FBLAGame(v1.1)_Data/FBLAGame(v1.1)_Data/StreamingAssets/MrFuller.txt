@@ -1,0 +1,48 @@
+*Main*
+What can I help you with?
+Actually, I forgot.
+How do I go about fundraising?*Fundraising* 
+How do I find out about service?*Service*
+How do I join a membership program?*Membership*
+How do I progress on my event?*Progress*
+What is the BAA?*BAA*
+How do I prepare for an event?*Event*
+
+*Fundraising*
+&Fundraising()& //This returns either "Here are some Baby Burnace Pizza cards. Go around and ask people to buy them." or "Use the Baby Burnace Pizza cards to sell them to people." depending on if the player has cards or not
+Ok, will do.
+I have another question.*Main*
+
+*Service*
+Go to the office to see if they have any service ideas
+Ok, will do 
+I have another question.*Main*
+
+*Membership*
+&Membership()& "You are at level {0}. Recruit {1} more people to reach the next level." 
+Ok, will do
+I have another question.*Main*
+
+*BAA*
+In order to be apart of BAA, you must do a certain amount of service, education, and progress
+How do I do education?*Education*
+How do I find out about service?*Service*
+How do I progress?*Progress*
+Ok, got it.
+I have another question.
+
+*Event*
+&Event(1)&
+hwllo
+alksjdf
+
+*Education*
+Go to the computer to learn stuff.
+Ok, got it.
+I have another question.*Main*
+
+*Progress*
+&Progress()&
+Ok, got it.
+I have another question.*Main*
+

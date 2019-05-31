@@ -1,0 +1,29 @@
+*Main*
+Hello there friend
+Hello there*Hello*
+Will you be interested in buying Baby Murphy's Gift cards?*Cards*
+Do you want to join a membership program?*Membership*
+Bye
+
+*Cards*
+&Cards()&
+
+*Membership*
+&Membership()&
+
+*Hello*
+How are you?
+Good, how are you?
+Terrible, leave me alone
+
+*Good, how are you?*
+I'm doing well, thank you!
+Awesome!
+
+System.Xml 
+
+{
+"name":"John",
+"age":30,
+"cars":[ "Ford", "BMW", "Fiat" ]
+}

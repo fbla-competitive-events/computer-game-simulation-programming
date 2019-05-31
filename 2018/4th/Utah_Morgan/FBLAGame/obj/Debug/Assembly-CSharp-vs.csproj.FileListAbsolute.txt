@@ -1,0 +1,12 @@
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\Corinne\Documents\Unity\Projects\FBLAGame\obj\Debug\Assembly-CSharp.pdb

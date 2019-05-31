@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBLAGame", "FBLAGame.csproj", "{0DC28BD0-C1FA-F722-F827-C737A12E23FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBLAGame.Editor", "FBLAGame.Editor.csproj", "{0B6E1CAA-3AA7-EDBE-7A32-3E0DC2CF85AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC28BD0-C1FA-F722-F827-C737A12E23FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC28BD0-C1FA-F722-F827-C737A12E23FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC28BD0-C1FA-F722-F827-C737A12E23FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC28BD0-C1FA-F722-F827-C737A12E23FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6E1CAA-3AA7-EDBE-7A32-3E0DC2CF85AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6E1CAA-3AA7-EDBE-7A32-3E0DC2CF85AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6E1CAA-3AA7-EDBE-7A32-3E0DC2CF85AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6E1CAA-3AA7-EDBE-7A32-3E0DC2CF85AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
