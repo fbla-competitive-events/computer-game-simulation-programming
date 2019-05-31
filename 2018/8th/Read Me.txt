@@ -1,0 +1,16 @@
+Download and unzip all of the files in this folder
+
+Make sure that all of the files in this folder remain in the same folder when downloaded
+
+To run the game, double click and launch the .exe file labelled "FBLA Mebership Mania.exe"
+
+In the game launcher, select the following settings:
+
+Screen resolution: 1280 x 720
+
+Graphics quality: High
+
+Verify the the "Windowed" checkbox is deselected
+
+Press "Play!" to begin the game
+
