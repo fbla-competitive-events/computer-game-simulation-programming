@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 6c7bf942348f4d44182a5add65b6ae73
+timeCreated: 1519331010
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bug_EvenMoreGlitches_0
+    21300002: bug_EvenMoreGlitches_1
+    21300004: bug_EvenMoreGlitches_2
+    21300006: bug_EvenMoreGlitches_3
+    21300008: bug_EvenMoreGlitches_4
+    21300010: bug_EvenMoreGlitches_5
+    21300012: bug_EvenMoreGlitches_6
+    21300014: bug_EvenMoreGlitches_7
+    21300016: bug_EvenMoreGlitches_8
+    21300018: bug_EvenMoreGlitches_9
+    21300020: bug_EvenMoreGlitches_10
+    21300022: bug_EvenMoreGlitches_11
+    21300024: bug_EvenMoreGlitches_12
+    21300026: bug_EvenMoreGlitches_13
+    21300028: bug_EvenMoreGlitches_14
+    21300030: bug_EvenMoreGlitches_15
+    21300032: bug_EvenMoreGlitches_16
+    21300034: bug_EvenMoreGlitches_17
+    21300036: bug_EvenMoreGlitches_18
+    21300038: bug_EvenMoreGlitches_19
+    21300040: bug_EvenMoreGlitches_20
+    21300042: bug_EvenMoreGlitches_21
+    21300044: bug_EvenMoreGlitches_22
+    21300046: bug_EvenMoreGlitches_23
+    21300048: bug_EvenMoreGlitches_24
+    21300050: bug_EvenMoreGlitches_25
+    21300052: bug_EvenMoreGlitches_26
+    21300054: bug_EvenMoreGlitches_27
+    21300056: bug_EvenMoreGlitches_28
+    21300058: bug_EvenMoreGlitches_29
+    21300060: bug_EvenMoreGlitches_30
+    21300062: bug_EvenMoreGlitches_31
+    21300064: bug_EvenMoreGlitches_32
+    21300066: bug_EvenMoreGlitches_33
+    21300068: bug_EvenMoreGlitches_34
+    21300070: bug_EvenMoreGlitches_35
+    21300072: bug_EvenMoreGlitches_36
+    21300074: bug_EvenMoreGlitches_37
+    21300076: bug_EvenMoreGlitches_38
+    21300078: bug_EvenMoreGlitches_39
+    21300080: bug_EvenMoreGlitches_40
+    21300082: bug_EvenMoreGlitches_41
+    21300084: bug_EvenMoreGlitches_42
+    21300086: bug_EvenMoreGlitches_43
+    21300088: bug_EvenMoreGlitches_44
+    21300090: bug_EvenMoreGlitches_45
+    21300092: bug_EvenMoreGlitches_46
+    21300094: bug_EvenMoreGlitches_47
+    21300096: bug_EvenMoreGlitches_48
+    21300098: bug_EvenMoreGlitches_49
+    21300100: bug_EvenMoreGlitches_50
+    21300102: bug_EvenMoreGlitches_51
+    21300104: bug_EvenMoreGlitches_52
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 127
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 127
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 127
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 127
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 105
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 105
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 105
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 105
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 105
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 105
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 83
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 83
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 83
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 83
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 83
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 83
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 61
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 61
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 61
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 61
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 61
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 61
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 17
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 17
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 17
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 17
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 17
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 77
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 16
+        width: 8
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 16
+        width: 24
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bug_EvenMoreGlitches_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

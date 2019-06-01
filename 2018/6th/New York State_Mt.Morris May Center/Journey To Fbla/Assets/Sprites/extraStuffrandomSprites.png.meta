@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: b0c45556cb4aa624d97d913fa19ada7e
+timeCreated: 1525799610
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: extraStuffrandomSprites_0
+    21300002: extraStuffrandomSprites_1
+    21300004: extraStuffrandomSprites_2
+    21300006: extraStuffrandomSprites_3
+    21300008: extraStuffrandomSprites_4
+    21300010: extraStuffrandomSprites_5
+    21300012: extraStuffrandomSprites_6
+    21300014: extraStuffrandomSprites_7
+    21300016: extraStuffrandomSprites_8
+    21300018: extraStuffrandomSprites_9
+    21300020: extraStuffrandomSprites_10
+    21300022: extraStuffrandomSprites_11
+    21300024: extraStuffrandomSprites_12
+    21300026: extraStuffrandomSprites_13
+    21300028: extraStuffrandomSprites_14
+    21300030: extraStuffrandomSprites_15
+    21300032: extraStuffrandomSprites_16
+    21300034: extraStuffrandomSprites_17
+    21300036: extraStuffrandomSprites_18
+    21300038: extraStuffrandomSprites_19
+    21300040: extraStuffrandomSprites_20
+    21300042: extraStuffrandomSprites_21
+    21300044: extraStuffrandomSprites_22
+    21300046: extraStuffrandomSprites_23
+    21300048: extraStuffrandomSprites_24
+    21300050: extraStuffrandomSprites_25
+    21300052: extraStuffrandomSprites_26
+    21300054: extraStuffrandomSprites_27
+    21300056: extraStuffrandomSprites_28
+    21300058: extraStuffrandomSprites_29
+    21300060: extraStuffrandomSprites_30
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 887
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 887
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 887
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 887
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 841
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 841
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 841
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 855
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 855
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 855
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 813
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 813
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 784
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 793
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 793
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 781
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 781
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 751
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 751
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 721
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 721
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 758
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 726
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 748
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 748
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 748
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 780
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 802
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 773
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 607
+        width: 400
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: extraStuffrandomSprites_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 891
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

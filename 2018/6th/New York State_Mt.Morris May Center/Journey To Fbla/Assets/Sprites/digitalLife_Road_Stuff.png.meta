@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: 07e86bddf38141946a69f75882cf9156
+timeCreated: 1517855488
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: digitalLife_Road&Stuff_0
+    21300002: digitalLife_Road&Stuff_1
+    21300004: digitalLife_Road&Stuff_2
+    21300006: digitalLife_Road&Stuff_3
+    21300008: digitalLife_Road&Stuff_4
+    21300010: digitalLife_Road&Stuff_5
+    21300012: digitalLife_Road&Stuff_6
+    21300014: digitalLife_Road&Stuff_7
+    21300016: digitalLife_Road&Stuff_8
+    21300018: digitalLife_Road&Stuff_9
+    21300020: digitalLife_Road&Stuff_10
+    21300022: digitalLife_Road&Stuff_11
+    21300024: digitalLife_Road&Stuff_12
+    21300026: digitalLife_Road&Stuff_13
+    21300028: digitalLife_Road&Stuff_14
+    21300030: digitalLife_Road&Stuff_15
+    21300032: digitalLife_Road&Stuff_16
+    21300034: digitalLife_Road&Stuff_17
+    21300036: digitalLife_Road&Stuff_18
+    21300038: digitalLife_Road&Stuff_19
+    21300040: digitalLife_Road&Stuff_20
+    21300042: digitalLife_Road&Stuff_21
+    21300044: digitalLife_Road&Stuff_22
+    21300046: digitalLife_Road&Stuff_23
+    21300048: digitalLife_Road&Stuff_24
+    21300050: digitalLife_Road&Stuff_25
+    21300052: digitalLife_Road&Stuff_26
+    21300054: digitalLife_Road&Stuff_27
+    21300056: digitalLife_Road&Stuff_28
+    21300058: digitalLife_Road&Stuff_29
+    21300060: digitalLife_Road&Stuff_30
+    21300062: digitalLife_Road&Stuff_31
+    21300064: digitalLife_Road&Stuff_32
+    21300066: digitalLife_Road&Stuff_33
+    21300068: digitalLife_Road&Stuff_34
+    21300070: digitalLife_Road&Stuff_35
+    21300072: digitalLife_Road&Stuff_36
+    21300074: digitalLife_Road&Stuff_37
+    21300076: digitalLife_Road&Stuff_38
+    21300078: digitalLife_Road&Stuff_39
+    21300080: digitalLife_Road&Stuff_40
+    21300082: digitalLife_Road&Stuff_41
+    21300084: digitalLife_Road&Stuff_42
+    21300086: digitalLife_Road&Stuff_43
+    21300088: digitalLife_Road&Stuff_44
+    21300090: digitalLife_Road&Stuff_45
+    21300092: digitalLife_Road&Stuff_46
+    21300094: digitalLife_Road&Stuff_47
+    21300096: digitalLife_Road&Stuff_48
+    21300098: digitalLife_Road&Stuff_49
+    21300100: digitalLife_Road&Stuff_50
+    21300102: digitalLife_Road&Stuff_51
+    21300104: digitalLife_Road&Stuff_52
+    21300106: digitalLife_Road&Stuff_53
+    21300108: digitalLife_Road&Stuff_54
+    21300110: digitalLife_Road&Stuff_55
+    21300112: digitalLife_Road&Stuff_56
+    21300114: digitalLife_Road&Stuff_57
+    21300116: digitalLife_Road&Stuff_58
+    21300118: digitalLife_Road&Stuff_59
+    21300120: digitalLife_Road&Stuff_60
+    21300122: digitalLife_Road&Stuff_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: digitalLife_Road&Stuff_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: trees&stuff
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
