@@ -1,0 +1,952 @@
+//Code for Trump: The Game//
+Information about object: object_bullet
+Sprite: sprite_bullet
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+move_towards_point(mouse_x,mouse_y,20);
+
+Sname = part_system_create();
+particle1 = part_type_create();
+part_type_shape(particle1,pt_shape_square);
+part_type_size(particle1,0.01,0.05,0,0);
+part_type_scale(particle1,1,1);
+part_type_color1(particle1,8421504);
+part_type_alpha1(particle1,1);
+part_type_speed(particle1,0.1,1,0,0);
+part_type_direction(particle1,0,359,0,0);
+part_type_gravity(particle1,0,270);
+part_type_orientation(particle1,0,0,0,0,1);
+part_type_blend(particle1,0);
+part_type_life(particle1,5,10);
+
+Step Event:
+
+execute code:
+
+part_particles_create(Sname,x,y,particle1,2);
+
+Collision Event with object object_tree:
+
+execute code:
+
+instance_destroy();
+
+Information about object: object_player
+Sprite: sprite_player
+Solid: false
+Visible: true
+Depth: -100
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+image_speed = 0;
+image_index = 0;
+
+walkingSpeed = 5;
+setSpeed = 0.5;
+isFiring = false;
+fireRate = 10; // equal 2 bullets every second
+accuracy = 10;
+
+randomize();
+
+Alarm Event for alarm 0:
+
+execute code:
+
+isFiring = false;
+
+Step Event:
+
+execute code:
+
+image_angle = direction;
+direction = point_direction(x,y,mouse_x,mouse_y);
+
+friction = 0.5;
+
+if(keyboard_check(ord("up"))) { speed = walkingSpeed; }
+if(keyboard_check(ord("down"))) { speed = -walkingSpeed; }
+
+//Setting the image
+if(speed > 0 || speed < 0) { image_speed = setSpeed; }
+else { image_speed = 0; image_index = 0; }
+
+execute code:
+
+if global.level>=1000
+{
+  instance_destroy()
+  room_goto(rm_congrats)
+}
+if (global.health <=0)
+{
+  instance_destroy()
+  room_goto(rm_motivation)
+}
+
+Collision Event with object object_zombie:
+
+execute code:
+
+global.health -= .5;
+
+Collision Event with object obj_zombie2:
+
+execute code:
+
+global.health -= .5;
+
+Collision Event with object object18:
+
+execute code:
+
+global.health -= .5;
+
+Collision Event with object object_tree:
+
+execute code:
+
+move_contact_solid(direction,12);
+
+Keyboard Event for <Space> Key:
+
+execute code:
+
+if global.ammo > 0
+{
+if(!isFiring) 
+{
+    isFiring = true;
+    alarm[0] = fireRate;
+    b1=instance_create(x,y,object_bullet);
+    b1.direction = image_angle;
+}
+global.ammo -= 1;
+}
+
+Keyboard Event for <Up> Key:
+
+execute code:
+
+{ speed = walkingSpeed; }
+
+Keyboard Event for <Down> Key:
+
+execute code:
+
+{ speed = -walkingSpeed; }
+
+Mouse Event for Glob Left Released:
+
+execute code:
+
+if global.ammo > 0
+{
+if(!isFiring) 
+{
+    isFiring = true;
+    alarm[0] = fireRate;
+    b1=instance_create(x,y,object_bullet);
+    b1.direction = image_angle;
+}
+global.ammo -= 1;
+}
+
+
+play sound sound2; looping: false
+Information about object: object_zombie
+Sprite: sprite_zombie
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+setSpeed = 0.5;
+
+image_speed = setSpeed;
+image_index = 0;
+
+walkingSpeed = 2;
+hitpoints = 100;
+
+Sname = part_system_create();
+particle1 = part_type_create();
+part_type_shape(particle1,pt_shape_disk);
+part_type_size(particle1,0.01,0.10,0,0);
+part_type_scale(particle1,1,1);
+part_type_color3(particle1,128,191,255);
+part_type_alpha3(particle1,1,0.30,0.10);
+part_type_speed(particle1,0.10,3,0,0);
+part_type_direction(particle1,0,359,0,0);
+part_type_gravity(particle1,0,270);
+part_type_orientation(particle1,0,0,0,0,1);
+part_type_blend(particle1,0);
+part_type_life(particle1,10,20);
+
+
+Step Event:
+
+execute code:
+
+image_angle = point_direction(x,y,object_player.x,object_player.y);
+
+mp_potential_step(object_player.x,object_player.y,walkingSpeed,true);
+
+if(hitpoints <= 0) instance_destroy();
+
+Collision Event with object object_bullet:
+
+execute code:
+
+part_particles_create(Sname,x,y,particle1,60);
+with(other) instance_destroy();
+hitpoints -= 100;
+
+execute code:
+
+global.level += 10;
+
+Information about object: obj_zombie2
+Sprite: sprite_zombie
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+setSpeed = 0.5;
+
+image_speed = setSpeed;
+image_index = 0;
+
+walkingSpeed = 3;
+hitpoints = 100;
+
+Sname = part_system_create();
+particle1 = part_type_create();
+part_type_shape(particle1,pt_shape_disk);
+part_type_size(particle1,0.01,0.10,0,0);
+part_type_scale(particle1,1,1);
+part_type_color3(particle1,128,191,255);
+part_type_alpha3(particle1,1,0.30,0.10);
+part_type_speed(particle1,0.10,3,0,0);
+part_type_direction(particle1,0,359,0,0);
+part_type_gravity(particle1,0,270);
+part_type_orientation(particle1,0,0,0,0,1);
+part_type_blend(particle1,0);
+part_type_life(particle1,10,20);
+
+
+Step Event:
+
+execute code:
+
+image_angle = point_direction(x,y,object_player.x,object_player.y);
+
+mp_potential_step(object_player.x,object_player.y,walkingSpeed,true);
+
+if(hitpoints <= 0) instance_destroy();
+
+Collision Event with object object_bullet:
+
+execute code:
+
+part_particles_create(Sname,x,y,particle1,60);
+with(other) instance_destroy();
+hitpoints -= 100;
+
+execute code:
+
+global.level += 10;
+
+Information about object: object18
+Sprite: sprite13
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+setSpeed = 0.5;
+
+image_speed = setSpeed;
+image_index = 0;
+
+walkingSpeed = 3;
+hitpoints = 10000;
+
+Sname = part_system_create();
+particle1 = part_type_create();
+part_type_shape(particle1,pt_shape_disk);
+part_type_size(particle1,0.01,0.10,0,0);
+part_type_scale(particle1,1,1);
+part_type_color3(particle1,128,191,255);
+part_type_alpha3(particle1,1,0.30,0.10);
+part_type_speed(particle1,0.10,3,0,0);
+part_type_direction(particle1,0,359,0,0);
+part_type_gravity(particle1,0,270);
+part_type_orientation(particle1,0,0,0,0,1);
+part_type_blend(particle1,0);
+part_type_life(particle1,10,20);
+
+
+Step Event:
+
+execute code:
+
+image_angle = point_direction(x,y,object_player.x,object_player.y);
+
+mp_potential_step(object_player.x,object_player.y,walkingSpeed,true);
+
+if (global.hitpoints <=0)
+{
+  instance_destroy()
+  room_goto(rm_congrats)
+}
+
+Collision Event with object object_bullet:
+
+execute code:
+
+part_particles_create(Sname,x,y,particle1,60);
+with(other) instance_destroy();
+global.hitpoints -= 5;
+
+execute code:
+
+global.level += 10;
+
+Information about object: object_tree
+Sprite: sprite_tree
+Solid: true
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+xoff=x 
+yoff=y
+a=random(360) 
+a2=random(360)
+a3=random(360)
+tree_height=7 
+if(distance_to_object(object_spawn) > 64) { instance_destroy(); }
+
+Step Event:
+
+execute code:
+
+
+if x-object_player.x>0 then xoff=point_distance(x,0,object_player.x,0)/tree_height
+if x-object_player.x<0 then xoff=-point_distance(x,0,object_player.x,0)/tree_height
+if y-object_player.y>0 then yoff=point_distance(0,y,0,object_player.y)/tree_height
+if y-object_player.y<0 then yoff=-point_distance(0,y,0,object_player.y)/tree_height
+
+Draw Event:
+
+execute code:
+
+draw_sprite_ext(sprite_index,image_index,xstart+xoff/6.5,ystart+yoff/6.5,0.625,0.625,a ,image_blend,0.9)
+draw_sprite_ext(sprite_index,image_index,xstart+xoff/2.5,ystart+yoff/2.5,0.490,0.490,a2,image_blend,0.8)
+draw_sprite_ext(sprite_index,image_index,xstart+xoff/1.5,ystart+yoff/1.5,0.325,0.325,a3,image_blend,0.7)
+
+Information about object: object_light
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Draw Event:
+
+execute code:
+
+draw_set_blend_mode(bm_add);
+draw_sprite(sprite_light,-1,object_player.x,object_player.y);
+draw_set_blend_mode(bm_normal);
+
+Information about object: object_spawn
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+spawn_rate = 90;
+time_dif = 60;
+alarm[0] = spawn_rate + random(time_dif);
+
+Alarm Event for alarm 0:
+
+execute code:
+
+instance_create(x,y,object_zombie);
+alarm[0] = spawn_rate + random(time_dif);
+
+Step Event:
+
+execute code:
+
+Information about object: object_spawn
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+spawn_rate = 90;
+time_dif = 60;
+alarm[0] = spawn_rate + random(time_dif);
+
+Alarm Event for alarm 0:
+
+execute code:
+
+instance_create(x,y,object_zombie);
+alarm[0] = spawn_rate + random(time_dif);
+
+Step Event:
+
+execute code:
+
+Information about object: object_HUD
+Sprite: 
+Solid: false
+Visible: true
+Depth: -9999
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+global.hitpoints = 100;
+global.level = 0;
+alarm[0] = 450;
+global.health = 100;
+global.ammo = 200;
+
+Alarm Event for alarm 0:
+
+execute code:
+
+with(object_spawn)
+{
+time_dif -= 5;
+spawn_rate -= 15;
+}
+
+alarm[0] = 450;
+
+Draw Event:
+
+execute code:
+
+draw_healthbar(view_xview[0] + 5,view_yview[0] + 5,view_xview[0] + 150, view_yview[0] + 32,global.health,c_red,c_green,c_green,0,true,true);
+draw_set_color(c_black);
+draw_text(view_xview[0] + 10, view_yview[0] + view_hview[0] - 20, "SCORE: " + string(global.level));
+draw_text(view_xview[0] + 10, view_yview[0] + view_hview[0] - 40, "AMMO: " + string(global.ammo));
+
+
+Information about object: object8
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+global.score = 1;
+
+Other Event: Game Start:
+
+set the score to 0
+set the number of lives to 3
+set the health to 100
+Draw Event:
+
+execute code:
+
+draw_set_color(c_black);
+draw_text(view_xview[0] + 10, view_yview[0] + view_hview[0] + 10, "LEVEL: " + string(global.level));
+
+Information about object: obj_motivation
+Sprite: spr_motivation
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+
+Information about object: obj_level1
+Sprite: spr_level1
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Glob Left Released:
+
+execute code:
+
+room_goto(rm_main);
+
+Information about object: obj_level3
+Sprite: spr_level3
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Left Button:
+
+execute code:
+
+room_goto(rm_main3);
+
+Information about object: obj_heart
+Sprite: sprite7
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Collision Event with object object_player:
+
+execute code:
+
+instance_destroy();
+global.health += 20;
+
+Information about object: obj_level2
+Sprite: spr_level2
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Left Button:
+
+execute code:
+
+room_goto(rm_main2);
+
+Information about object: object14
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+
+Information about object: obj_quote
+Sprite: sprite10
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Information about object: object15
+Sprite: obj_ammo
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Collision Event with object object_player:
+
+execute code:
+
+instance_destroy ();
+global.ammo += 50;
+
+
+play sound trumploan_wav; looping: false
+Information about object: obj_instructions
+Sprite: spr_instructions
+Solid: false
+Visible: true
+Depth: 10
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Glob Left Released:
+
+execute code:
+
+room_goto(bk_instructions2);
+
+Information about object: obj_instructions
+Sprite: spr_instructions
+Solid: false
+Visible: true
+Depth: 10
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Glob Left Released:
+
+execute code:
+
+room_goto(bk_instructions2);
+
+Information about object: obj_instructions2
+Sprite: spr_instructions
+Solid: false
+Visible: true
+Depth: 10
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Glob Left Released:
+
+execute code:
+
+room_goto(Menu);
+
+Information about object: obj_sound
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+play sound sound3; looping: true
+Step Event:
+
+if sound sound3 is not playing
+      play sound sound3; looping: true
+
+Information about object: obj_room_controller
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Key Press Event for <Escape> Key:
+
+execute code:
+
+instance_create(x, y, obj_pause_menu_controller);
+
+
+Information about object: obj_pause_menu_controller
+Sprite: 
+Solid: false
+Visible: true
+Depth: 10
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Create Event:
+
+execute code:
+
+screen_save("workingscreenie.png");
+
+instance_deactivate_all(true);
+
+background = sprite_add("workingscreenie.png", 0, false, true, room_width/2, room_height/2);
+
+interest = "continue";
+
+Destroy Event:
+
+execute code:
+
+if (file_exists("workingscreenie.png"))
+{
+    file_delete("workingscreenie.png");
+}
+
+instance_activate_all();
+
+Step Event:
+
+stop sound sound3
+Other Event: Game End:
+
+execute code:
+
+if (file_exists("workingscreenie.png"))
+{
+    file_delete("workingscreenie.png");
+}
+
+Draw GUI Event:
+
+execute code:
+
+draw_sprite(background, 0, room_width/2, room_height/2);
+draw_sprite(spr_pause_backdrop, 0, room_width/2, room_height/2);
+
+if (interest == "continue")
+{
+    draw_sprite(spr_pause_continue, 1, room_width/2, room_height/2 - 100);
+    draw_sprite(spr_pause_options, 0, room_width/2, room_height/2);
+    draw_sprite(spr_pause_exit, 0, room_width/2, room_height/2 + 100);
+}
+else if (interest == "options")
+{
+    draw_sprite(spr_pause_continue, 0, room_width/2, room_height/2 - 100);
+    draw_sprite(spr_pause_options, 1, room_width/2, room_height/2);
+    draw_sprite(spr_pause_exit, 0, room_width/2, room_height/2 + 100);
+}
+else if (interest == "exit")
+{
+    draw_sprite(spr_pause_continue, 0, room_width/2, room_height/2 - 100);
+    draw_sprite(spr_pause_options, 0, room_width/2, room_height/2);
+    draw_sprite(spr_pause_exit, 1, room_width/2, room_height/2 + 100);
+}
+
+Key Press Event for <Enter> Key:
+
+execute code:
+
+if (interest == "continue")
+{
+    instance_destroy();
+}
+else if (interest == "options")
+{
+    
+}
+else if (interest == "exit")
+{    
+    room_goto(Menu)
+}
+
+Key Press Event for <Escape> Key:
+
+execute code:
+
+instance_destroy();  
+
+Key Press Event for <Up> Key:
+
+execute code:
+
+if (interest == "continue")
+{
+    interest = "exit";
+}
+else if (interest == "options")
+{
+    interest = "continue";
+}
+else if (interest == "exit")
+{
+    interest = "options";
+}
+
+Key Press Event for <Down> Key:
+
+execute code:
+
+if (interest == "continue")
+{
+    interest = "options";
+}
+else if (interest == "options")
+{
+    interest = "exit";
+}
+else if (interest == "exit")
+{
+    interest = "continue";
+}
+
+Information about object: obj_menu2
+Sprite: Menu_2
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Glob Left Released:
+
+execute code:
+
+room_goto(Menu);
+
+Information about object: obj_musicstop
+Sprite: 
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Step Event:
+
+stop sound sound3
+Information about object: obj_congrats
+Sprite: spr_congrats
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+
+Information about object: obj_next
+Sprite: spr_next
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Glob Left Released:
+
+execute code:
+
+room_goto (Menu);
+
